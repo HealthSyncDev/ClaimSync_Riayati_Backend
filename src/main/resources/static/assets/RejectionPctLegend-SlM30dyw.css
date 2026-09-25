@@ -1,0 +1,1 @@
+.rejection-pct-legend{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}.rejection-pct-legend-item{font-size:.6875rem;font-weight:600;padding:3px 9px;border-radius:999px}.rejection-pct-legend-item--good{color:#047857;background:#10b9811f}.rejection-pct-legend-item--warn{color:#b45309;background:#f59e0b1f}.rejection-pct-legend-item--critical{color:#b91c1c;background:#ef44441f}
